@@ -1,0 +1,19 @@
+.item {
+    margin: 1rem 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    background-color: #f7f5ef;
+  }
+
+  .deleteIcon {
+    cursor: pointer;
+    margin-right: 5%;
+    color: #ff0000;
+    font-size: 1.2rem;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .deleteIcon:hover {
+    transform: scale(1.2);
+  }
+  
